@@ -1,0 +1,7 @@
+{
+  "plugins": [
+    "expo-sqlite"
+  ],
+  "name": "xzczxc",
+  "slug": "xzczxc"
+}
